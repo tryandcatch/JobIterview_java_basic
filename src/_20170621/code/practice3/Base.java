@@ -1,4 +1,4 @@
-package practice_decription.code._20170621.practice3;/**
+package _20170621.code.practice3;/**
  *
  */
 
