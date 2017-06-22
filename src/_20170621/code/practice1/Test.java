@@ -20,4 +20,10 @@ public class Test {
         int j = test.aMethod();
         System.out.println(j);
     }
+    /**
+     * static修饰的变量属于“类”级别的
+     * 帮助理解：
+     *  局部变量（方法内）是有生命周期的，用完后JAVA很快就回收资源了。如果设成静态变量，那JAVA无法自动回收其占用的内存。
+     *
+     */
 }
