@@ -1,4 +1,4 @@
-package _20170621.code.practice6;
+package _20170621.code.practice5;
 
 /**
  * 第五题
