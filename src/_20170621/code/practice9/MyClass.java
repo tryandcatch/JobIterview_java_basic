@@ -11,5 +11,9 @@ public class MyClass {
         System.out.println(arguments);
         System.out.println(arguments[1]);
     }
+    /**
+     * 解释：
+     * 非静态方法不能被静态方法调用
+     */
     
 }
